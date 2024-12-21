@@ -1,0 +1,2 @@
+django-admin startproject gutendex_project
+cd gutendex_project
